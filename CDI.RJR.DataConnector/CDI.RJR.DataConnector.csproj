@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CDI.RJR.Data\CDI.RJR.Data.csproj" />
+    <ProjectReference Include="..\RJR.Core\RJR.Core.csproj" />
+  </ItemGroup>
+
+</Project>
